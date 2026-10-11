@@ -1,15 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ranithu Dias</h1>
-<h3 align="center">Cybersecurity Student | Aspiring SOC Analyst & Penetration Tester | Web Security, Network Security & Linux | Building Hands-on Security Projects
-- 📫 How to reach me **Ranithudias574@gmail.com**
+# Hi 👋, I'm Ranithu Dias
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ranithu dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranithu dias" height="30" width="40" /></a>
-<a href="https://fb.com/ranithu dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranithu dias" height="30" width="40" /></a>
-<a href="https://instagram.com/ranithu dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranithu dias" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/signal yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="signal yt" height="30" width="40" /></a>
-<a href="https://discord.gg/raniya#9095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raniya#9095" height="30" width="40" /></a>
-</p>
+### 🔐 Cybersecurity Student | Aspiring SOC Analyst & Penetration Tester
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+Passionate about **Cybersecurity, Ethical Hacking, Web Application Security, Network Security, and Linux**.
+
+I'm building practical cybersecurity projects, developing my technical skills, and preparing for opportunities in the cybersecurity industry.
+
+- 🎓 Studying Cybersecurity
+- 🔍 Interested in SOC Operations, Penetration Testing, and Digital Forensics
+- 🛠️ Practicing security testing in authorized lab environments
+- 📚 Currently learning web application security, network analysis, and security monitoring
+- 🎯 Career Goal: Become a skilled Cybersecurity Professional
+- 📫 Email: **Ranithudias574@gmail.com**
+
+---
+
+## 🛡️ About Me
+
+I'm a cybersecurity student passionate about understanding how systems work, identifying security weaknesses, and learning how to protect digital environments.
+
+I enjoy hands-on learning through security labs, vulnerability testing, technical documentation, and practical projects.
+
+My main interests include:
+
+- Security Operations Center (SOC)
+- Web Application Penetration Testing
+- Network Security
+- Linux and System Administration
+- Digital Forensics and Incident Response
+- Security Automation
+
+---
+
+## 🧰 Technical Skills & Tools
+
+**Security Testing**
+- Burp Suite Community Edition
+- PortSwigger Web Security Academy
+- SQL Injection, Cross-Site Scripting (XSS), and IDOR testing
+- HTTP Request and Response Analysis
+- Vulnerability Reporting and Remediation
+
+**Operating Systems & Networking**
+- Windows
+- Linux / Ubuntu
+- Networking Fundamentals
+- Virtual Machines and Lab Environments
+
+**Programming & Development**
+- Python
+- C / C++
+- C#
+- JavaScript
+- PHP
+- SQL
+- Git and GitHub
+
+**Other Technologies I'm Exploring**
+- AWS Cloud
+- Security Monitoring and Log Analysis
+- Digital Forensics
+- Cybersecurity Automation
+
+---
+
+## 🚀 Featured Cybersecurity Projects
+
+### 🔎 Web Application Penetration Testing Portfolio
+
+A hands-on web security testing portfolio built using **PortSwigger Web Security Academy** and **Burp Suite Community Edition**.
+
+**Verified training lab findings:**
+
+| ID | Vulnerability | Status |
+|---|---|---|
+| VAPT-001 | SQL Injection | Lab Solved ✅ |
+| VAPT-002 | Reflected Cross-Site Scripting (XSS) | Lab Solved ✅ |
+| VAPT-003 | Insecure Direct Object References (IDOR) | Lab Solved ✅ |
+
+**Skills demonstrated:**
+- Manual vulnerability testing
+- HTTP traffic analysis
+- Burp Suite Repeater
+- Proof-of-concept documentation
+- Security reporting and remediation recommendations
+
+> All testing was performed in authorized training environments.
+
+*Project repository link will be added after publication.*
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Web Application Security
+- SOC Operations and Log Analysis
+- Network Traffic Analysis
+- Digital Forensics and Incident Response
+- Python for Cybersecurity
+- Cloud Security Fundamentals
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 **Email:** Ranithudias574@gmail.com
+- 💼 **LinkedIn:** Add your verified LinkedIn profile URL here
+- 🐙 **GitHub:** [RanithuDias](https://github.com/RanithuDias)
+
+---
+
+## 🎯 My Goal
+
+To continuously improve my practical cybersecurity skills, contribute to meaningful security projects, and build a professional career in cybersecurity.
+
+### 🔐 Learn | Practice | Build | Improve
+
+*Securing the digital world, one skill at a time.*
