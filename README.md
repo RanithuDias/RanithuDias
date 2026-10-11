@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranithu Dias</h1>
-<h3 align="center">Cyber Security Student | HND in Cyber Security | IT & Hardware Troubleshooting | Aspiring Cyber Security Professional</h3>
-
+<h3 align="center">Cybersecurity Student | Aspiring SOC Analyst & Penetration Tester | Web Security, Network Security & Linux | Building Hands-on Security Projects
 - 📫 How to reach me **Ranithudias574@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
